@@ -1,6 +1,6 @@
 # CARLA Waypoint Following Controller
 
-This project is my final project for **Course 1 of the Self-Driving Cars Specialization**.  
+This project is my final project for **Course 1 of the Self-Driving Cars Specialization in Coursera**.  
 I implemented and tested a waypoint-following controller in **CARLA**, where the vehicle tracks a racetrack trajectory while following a target speed profile.
 
 ## Project Overview
