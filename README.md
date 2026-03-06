@@ -31,5 +31,4 @@ The speed tracking result showed that the vehicle was able to follow the referen
 
 ## Demo Video
 
-You can watch the CARLA demo here:
-
+[Watch the CARLA demo video](./CarlaUE4_Project_Demo_2026-03-05%2018-29-23_small.mp4)
